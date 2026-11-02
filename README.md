@@ -1,6 +1,6 @@
 # Department of Unfinished Business
 
-We fix small problems in open-source C projects. Fees: none.
+We fix small problems in open-source projects.
 
 ## What we do
 
@@ -32,3 +32,7 @@ Read the [case ledger](ledger.md) for every case, its status, and a link.
 ## Contact
 
 Open an issue. We do not promise a reply time.
+
+
+## P.S
+Not really a department.
